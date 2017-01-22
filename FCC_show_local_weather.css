@@ -1,0 +1,35 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+#mainDiv {
+  height: 100%;
+  background-color: #333;
+  color: #f7f7f7;
+}
+
+#title {
+  padding-top: 60px;
+}
+
+#locationDisplay {
+  margin-top: 40px;
+}
+
+#icon-div {
+  margin-top: 20px;
+}
+
+#shout-out {
+  margin-top: 10px;
+}
+
+#toggleButton {
+  background: none;
+  background-color: transparent;
+  cursor: pointer;
+  color: #f7f7f7;
+  border: 1px solid ##f0f0f0;
+}
